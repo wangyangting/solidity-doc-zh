@@ -6,9 +6,11 @@
 
 .. _voting:
 
-******
-Voting
-******
+********
+投票例子
+********
+
+下面的合约是十分复杂的, 但是展示了很多 Solidity 语言的特性.
 
 The following contract is quite complex, but showcases
 a lot of Solidity's features. It implements a voting
